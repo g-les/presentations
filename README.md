@@ -1,2 +1,2 @@
 # Presentations
-Slides from Public (Mostly ;)) Presentations
+Slides from Public (Mostly) Presentations
